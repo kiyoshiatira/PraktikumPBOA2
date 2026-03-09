@@ -1,3 +1,7 @@
+/* Nama File    : MGaris.java */
+/* Deskripsi    : berisi pemanggilan fungsi-fungsi dari class Garis */
+/* Pembuat      : Kiyoshi Akila Tira */
+/* Tanggal      : Senin, 23 februari 2026 */
 public class MGaris {
     public static void main(String[] args) {
 

@@ -1,3 +1,7 @@
+/* Nama File    : MTitik.java */
+/* Deskripsi    : berisi pemanggilan fungsi-fungsi dari class Titik */
+/* Pembuat      : Kiyoshi Akila Tira */
+/* Tanggal      : Kamis, 19 Januari 2026 */
 public class MTitik {
     public static void main(String[] args) {
         Titik T1 = new Titik();

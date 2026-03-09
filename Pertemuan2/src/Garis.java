@@ -1,3 +1,7 @@
+/* Nama File    : Garis.java */
+/* Deskripsi    : berisi atribut dan method untuk objek Garis */
+/* Pembuat      : Kiyoshi Akila Tira */
+/* Tanggal      : Senin, 23 februari 2026 */
 public class Garis {
     private Titik titikAwal;
     private Titik titikAkhir;

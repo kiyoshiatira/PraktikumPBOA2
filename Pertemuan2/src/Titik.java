@@ -1,3 +1,7 @@
+/* Nama File    : Titik.java */
+/* Deskripsi    : berisi atribut dan method untuk objek Titik */
+/* Pembuat      : Kiyoshi Akila Tira */
+/* Tanggal      : Senin, 19 Januari 2026 */
 public class Titik {
     // Atribut
     private double absis;
